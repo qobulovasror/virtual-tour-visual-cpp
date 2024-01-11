@@ -1,0 +1,18 @@
+﻿Build started 11.01.2024 15:47:10.
+     1>Project "C:\Users\Asror Qobulov\documents\visual studio 2015\Projects\virtual_travel\virtual_travel\virtual_travel.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Main programm files\VS 2015\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Main.cpp MyForm.cpp
+         Main.cpp
+         MyForm.cpp
+         Generating Code...
+       Link:
+         D:\Main programm files\VS 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Asror Qobulov\documents\visual studio 2015\Projects\virtual_travel\Debug\virtual_travel.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\virtual_travel.Main.resources /ASSEMBLYRESOURCE:Debug\virtual_travel.MyForm.resources /ASSEMBLYRESOURCE:Debug\virtual_travel.ViewItems.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Asror Qobulov\documents\visual studio 2015\Projects\virtual_travel\Debug\virtual_travel.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Main.obj
+         Debug\MyForm.obj
+         Debug\ViewItems.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         virtual_travel.vcxproj -> C:\Users\Asror Qobulov\documents\visual studio 2015\Projects\virtual_travel\Debug\virtual_travel.exe
+     1>Done Building Project "C:\Users\Asror Qobulov\documents\visual studio 2015\Projects\virtual_travel\virtual_travel\virtual_travel.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.17
